@@ -10,7 +10,7 @@ tar -zxf fontbm.tar.gz
 
 git clone https://github.com/nxengine/lang_russian
 git clone https://github.com/nxengine/lang_japanese
-git clone https://github.com/nxengine/lang_french
+git clone https://github.com/B4rabbas/lang_french
 git clone https://github.com/nxengine/lang_polish
 git clone https://github.com/nxengine/lang_german
 git clone https://github.com/nxengine/lang_italian
